@@ -1,0 +1,33 @@
+{
+  "questions": [
+    {
+      "label": "Firstname ? ",
+      "type": "text"
+    },
+    {
+      "label": "Where are you from ?",
+      "type": "select",
+      "options": ["Belgique", "France", "Nederlands"]
+    },
+    {
+      "label": "Where are you from ?",
+      "type": "radio",
+      "options": ["1", "2", "3", "5", "10", "15"]
+    },
+    {
+      "label": "When",
+      "type": "radio",
+      "options": ["Janvier", "Février", "Mars", "Avril", "Mai", "Juin"]
+    },
+    {
+      "label": "Température",
+      "type": "radio",
+      "options": ["-10°", "0", "5", "10", "Mai", "Juin"]
+    },
+    {
+      "label": "Activity",
+      "type": "checkbox",
+      "options": ["Beach", "Mountain", "5", "10", "Mai", "Juin"]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "title": "MetaTitle van de Fout pagina",
+    "description": "MetaDescription van de Fout pagina - MetaDescription van de Fout pagina"
+  },
+
+  "default": {
+    "title": "Sorry, er ging iets mis",
+    "text": "Er is een fout opgetreden",
+    "actions": {
+      "tryAgain": {
+        "label": "Probeer het opnieuw"
+      },
+      "goToHome": {
+        "label": "Terug naar de homepage"
+      }
+    }
+  },
+
+  "404": {
+    "title": "Sorry, pagina niet gevonden",
+    "text": "We kunnen de pagina die je zoekt niet vinden",
+    "actions": {
+      "goToHome": {
+        "label": "Terug naar de homepage"
+      }
+    }
+  }
+}

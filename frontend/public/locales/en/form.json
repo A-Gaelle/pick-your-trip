@@ -1,0 +1,105 @@
+{
+  "test": "hello",
+  "questions": [
+    {
+      "id": "where",
+      "label": "Where do you come from ?",
+      "type": "select",
+      "options": ["Belgique", "France", "Nederlands"]
+    },
+    {
+      "id": "journey",
+      "label": "Do you want to travel in ...",
+      "type": "radio",
+      "options": ["plane", "train", "car"]
+    },
+    {
+      "id": "journey-duration",
+      "label": "How many hours of travel",
+      "type": "range",
+      "optionsMin": 1,
+      "optionsMax": 30,
+      "options": ["1", "2", "4", "5", "10", "15", "20", "25", "30"]
+    },
+    {
+      "id": "how-long",
+      "label": "How long do you want to leave ?",
+      "type": "radio",
+      "options": [
+        "1 jour",
+        "2 jours",
+        "3 jours",
+        "5 jours",
+        "10 jours",
+        "15 jours",
+        "30 jours"
+      ]
+    },
+    {
+      "id": "how-long",
+      "label": "How long do you want to leave ?",
+      "type": "radio",
+      "options": [
+        "1 jour",
+        "2 jours",
+        "3 jours",
+        "5 jours",
+        "10 jours",
+        "15 jours",
+        "30 jours"
+      ]
+    },
+    {
+      "id": "temperature",
+      "label": "How much temperature do you want ?",
+      "type": "radio",
+      "options": ["-10°C", "0°C", "5°C", "10°C", "15°C", "20°C", "25°C", "30°C"]
+    },
+    {
+      "id": "when",
+      "label": "At what period ?",
+      "type": "range",
+      "optionsMin": 1,
+      "optionsMax": 12,
+      "options": [
+        "Janvier",
+        "Février",
+        "Mars",
+        "Avril",
+        "Mai",
+        "Juin",
+        "Juillet",
+        "Aout",
+        "Septembre",
+        "Octobre",
+        "Novembre",
+        "Décembre"
+      ]
+    },
+    {
+      "id": "typePeople",
+      "label": "Who do you want to travel with?",
+      "type": "radio",
+      "options": ["Family travel", "Solo travel", "Group travel"]
+    },
+    {
+      "id": "type",
+      "label": "What type of vacation do you want?",
+      "type": "checkbox",
+      "options": [
+        "Relaxation/Chill",
+        "Adventure",
+        "Cultural-historical",
+        "Sports",
+        "Culinary",
+        "Cruise"
+      ]
+    },
+    {
+      "id": "activity",
+      "label": "What do you want to do as an activity ?",
+      "type": "checkbox",
+      "options": ["Snorkeling", "Hiking", "Skiing"]
+    }
+  ]
+}

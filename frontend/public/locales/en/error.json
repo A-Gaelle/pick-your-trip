@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "title": "MetaTitle of Error page",
+    "description": "MetaDescription of Error page - MetaDescription of Error page"
+  },
+
+  "default": {
+    "title": "Something went wrong",
+    "text": "An error occurred",
+    "actions": {
+      "tryAgain": {
+        "label": "Try again"
+      },
+      "goToHome": {
+        "label": "Go back to homepage"
+      }
+    }
+  },
+
+  "404": {
+    "title": "Sorry, page not found",
+    "text": "We can't find the page you're looking for",
+    "actions": {
+      "goToHome": {
+        "label": "Go back to homepage"
+      }
+    }
+  }
+}

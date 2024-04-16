@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "title": "MetaTitle de Page d'erreur",
+    "description": "MetaDescription de Page d'erreur - MetaDescription de Page d'erreur"
+  },
+
+  "default": {
+    "title": "Désolé, quelque chose s'est mal passé",
+    "text": "Une erreur s'est produite",
+    "actions": {
+      "tryAgain": {
+        "label": "Veuillez réessayer"
+      },
+      "goToHome": {
+        "label": "Retour à la page d'accueil"
+      }
+    }
+  },
+
+  "404": {
+    "title": "Désolé, page introuvable",
+    "text": "Nous ne trouvons pas la page que vous recherchez",
+    "actions": {
+      "goToHome": {
+        "label": "Retour à la page d'accueil"
+      }
+    }
+  }
+}

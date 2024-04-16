@@ -1,0 +1,60 @@
+{
+  "languageSwitcher": {
+    "en": "English",
+    "fr": "Français",
+    "nl": "Nederlands"
+  },
+
+  "nav": {
+    "home": "Home",
+    "start": "Start",
+    "contact": "Contact"
+  },
+
+  "navLegal": {
+    "termsOfUse": "Terms of use",
+    "privacyPolicy": "Privacy Policy"
+  },
+
+  "contactButton": {
+    "label": "Start"
+  },
+
+  "cookieConsent": {
+    "text": "This website uses cookies to improve user experience. By using our website you consent to all cookies in accordance with our <a href='{{link}}'>Cookie Policy</a>",
+    "actions": {
+      "accept": {
+        "label": "Accept"
+      },
+      "decline": {
+        "label": "Decline"
+      }
+    }
+  },
+
+  "contactForm": {
+    "firstname": {
+      "label": "First Name",
+      "placeholder": "First Name"
+    },
+    "lastname": {
+      "label": "Last Name",
+      "placeholder": "Last Name"
+    },
+    "email": {
+      "label": "Email",
+      "placeholder": "you@company.com"
+    },
+    "legal": {
+      "label": "You agree to our friendly <a href='{{link}}' target=\"_blank\"> privacy policy</a>"
+    },
+    "actions": {
+      "submit": {
+        "label": "Submit"
+      }
+    },
+    "loading": "Loading...",
+    "error": "Something went wrong. Please try again.",
+    "sent": "Thank you for contacting us."
+  }
+}
